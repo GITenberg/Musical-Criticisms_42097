@@ -1,0 +1,39 @@
+_repo: Musical-Criticisms_42097
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Reece, Henry
+    gutenberg_agent_id: '42160'
+    url: http://www.gutenberg.org/2009/agents/42160
+  - agent_name: Elton, Oliver
+    birthdate: &id001 1861
+    deathdate: 1945
+    gutenberg_agent_id: '41397'
+    url: http://www.gutenberg.org/2009/agents/41397
+covers:
+- cover_type: archival
+  image_path: 42097-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnstone, Arthur
+    birthdate: *id001
+    deathdate: 1904
+    gutenberg_agent_id: '41521'
+    url: http://www.gutenberg.org/2009/agents/41521
+description: ''
+gutenberg_issued: '2013-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music -- History and criticism'
+- !lcc 'ML'
+tableOfContents: Memoir -- Bach -- Beethoven -- Berlioz -- Liszt -- Wagner -- Tchaïkovsky
+  -- Sir Edward Elgar -- Richard Strauss -- Chamber music -- Piano playing -- Violin
+  playing -- Music in the nineteenth century -- Hans Richter -- Nietzsche.
+title: Musical Criticisms
+url: http://www.gutenberg.org/ebooks/42097

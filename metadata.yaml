@@ -6,7 +6,7 @@ contributor:
     gutenberg_agent_id: '42160'
     url: http://www.gutenberg.org/2009/agents/42160
   - agent_name: Elton, Oliver
-    birthdate: &id001 1861
+    birthdate: 1861
     deathdate: 1945
     gutenberg_agent_id: '41397'
     url: http://www.gutenberg.org/2009/agents/41397
@@ -16,11 +16,13 @@ covers:
 creator:
   author:
     agent_name: Johnstone, Arthur
-    birthdate: *id001
+    birthdate: 1861
     deathdate: 1904
     gutenberg_agent_id: '41521'
     url: http://www.gutenberg.org/2009/agents/41521
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42097#Musical-Criticisms
 gutenberg_issued: '2013-02-15'
 gutenberg_type: Text
 identifiers:
